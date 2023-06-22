@@ -131,7 +131,7 @@ else:
          aa = 0 
 
          zz = 0 
-
+from time import sleep
 B="\033[1;30m" # Black 
 
 R="\033[1;31m" # Red 
